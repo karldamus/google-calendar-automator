@@ -2,8 +2,6 @@
 GCA is a tool to help automate your google calendar events, written in python
 <br>
 Long gone are the days of going through a long and tedious process just to add an event to your google calendar.
-<br><br>
-Visit [gca.com](https://gca.karldamus.com) to learn more.
 <h2>Features</h2>
 <ul>
 <li>Multi-add 'non-related' events</li>
@@ -11,7 +9,8 @@ Visit [gca.com](https://gca.karldamus.com) to learn more.
 <li>Simple time input [12hr or 24hr]</li>
 <li>And much much more!</li>
 </ul>
-
+<br><br>
+Visit [gca.com](https://gca.karldamus.com) to learn more.
 <h2>Quick start</h2>
 Clone the [kraftdamus/google-calendar-automator](https://github.com/kraftdamus/google-calendar-automator.git) repository:
 
