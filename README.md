@@ -2,6 +2,7 @@
 GCA is a tool to help automate your google calendar events, written in python
 <br>
 Long gone are the days of going through a long and tedious process just to add an event to your google calendar.
+<br>
 Visit [gca.com](https://gca.karldamus.com) to learn more.
 <h2>Features</h2>
 <ul>
