@@ -3,8 +3,6 @@ a tool to help automate your google calendar events, written in python
 <br>
 remove the tedious and long process that happens every time you want to add a calendar event
 
-<br>
-
 <h2>Features</h2>
 <ul>
 <li>Multi-add 'non-related' events</li>
