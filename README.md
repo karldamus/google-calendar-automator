@@ -9,8 +9,9 @@ Long gone are the days of going through a long and tedious process just to add a
 <li>Simple time input [12hr or 24hr]</li>
 <li>And much much more!</li>
 </ul>
-<br><br>
+<br>
 Visit [gca.com](https://gca.karldamus.com) to learn more.
+
 <h2>Quick start</h2>
 Clone the [kraftdamus/google-calendar-automator](https://github.com/kraftdamus/google-calendar-automator.git) repository:
 
