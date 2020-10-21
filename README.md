@@ -11,16 +11,12 @@ remove the tedious and long process that happens every time you want to add a ca
 <li>And much much more!</li>
 </ul>
 
-<br>
-
 <h2>Quick start</h2>
 Clone the [kraftdamus/google-calendar-automator](https://github.com/kraftdamus/google-calendar-automator.git) repository:
 
 ```sh
 git clone https://github.com/kraftdamus/google-calendar-automator.git
 ```
-
-<br>
 
 <h2>Contributing</h2>
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
